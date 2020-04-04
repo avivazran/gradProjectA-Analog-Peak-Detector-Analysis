@@ -1,0 +1,6 @@
+the test check the frequency of input signal that the PD can follow.
+the error that we allow for this test(for every configuration) is 10mV DELTA between the 
+output to input in the time the imput arive to is peak, and for first period( after the first period the output charge and the delta is decrease.
+
+detalis-input SINUS WAVEFORm WITH DC VOLTAGE OF 1.65V 
+and small signal of 80mv 

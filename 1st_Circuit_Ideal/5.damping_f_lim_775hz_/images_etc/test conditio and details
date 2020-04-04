@@ -1,0 +1,3 @@
+damping factor =  -0.5
+frequency- f_max_(DELTA=10mV)=775hz
+Vdc=1.65V=VDD/2

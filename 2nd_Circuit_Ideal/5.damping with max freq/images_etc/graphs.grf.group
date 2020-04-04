@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--StateFileType saveLoadState-->
+<topLevel>
+    <SimpleProp Name="stateFileVersion" Value="@(#)$CDS: virtuoso version 6.1.8-64b 10/01/2018 20:02 (ip-172-18-22-57) $" Type="string" />
+    <SimpleProp Name="currentHistory" Value="/users/epavna/cadence/Project/work_libs/epavna/cds/simulation/Project_epavna/16_3_20_2ndCircuitIdealTestsAviv/adexl/results/data/Interactive.0" Type="stringValue" />
+    <SimpleProp Name="currentContext" Value="__historyDirStr__/psf/Project_epavna:16_3_20_2ndCircuitIdealTestsAviv:1/psf" Type="stringValue" />
+    <IndexedProp Name="resultsDirMappingList">
+        <SimpleProp Name="__resDirStr_0" Value="/users/epavna/cadence/Project/work_libs/epavna/cds/simulation/Project_epavna/16_3_20_2ndCircuitIdealTestsAviv/adexl/results/data/.tmpADEDir_epavna/Project_epavna:16_3_20_2ndCircuitIdealTestsAviv:1/simulation/16_3_20_2ndCircuitIdealTestsAviv/spectre/schematic/psf" Type="stringValue" />
+        <SimpleProp Name="__resDirStr_1" Value="/users/epavna/cadence/Project/work_libs/epavna/cds/simulation/Project_epavna/16_3_20_2ndCircuitIdealTestsAviv/adexl/results/data/Interactive.0/psf/Project_epavna:16_3_20_2ndCircuitIdealTestsAviv:1/psf" Type="stringValue" />
+    </IndexedProp>
+    <IndexedProp Name="dependentExprsList">
+        <SimpleProp Name="E0" Value='getData(&quot;/Vpeak&quot; ?result &apos;dc)' Type="stringValue" />
+        <SimpleProp Name="E1" Value='getData(&quot;/Vpeak&quot; ?result &apos;tran)' Type="stringValue" />
+        <SimpleProp Name="E2" Value='VT(&quot;/Vpeak&quot;)' Type="stringValue" />
+    </IndexedProp>
+    <IndexedProp Name="graphFileList">
+        <SimpleProp Value="graphs_0.grf" Type="stringValue" />
+    </IndexedProp>
+</topLevel>

@@ -1,5 +1,0 @@
-rectangular input
-period=50sec
-pulse width=1sec
-Vdroop_FIFURE OF MERIT-5% FROM Maximum output(maximum input)
-we choose this test becuase for high period (low frequency) we see the big efect of the phenomena. in high frequency(small period) the Droop rate phenomena is neglectible  
